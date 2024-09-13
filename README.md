@@ -6,14 +6,9 @@ This project uses a combination of computer vision and AI to recognize hand gest
 
 ## Features
 
-- Hand gesture recognition to capture math problems.
-- Real-time drawing on the canvas based on detected gestures.
-- Integration with a generative AI model to solve math problems.
+- Hand gesture recognition to capture hand movement.
+- Real-time drawing on the canvas based on detected hand movement.
+- Integration with a generative AI model to solve math problems which is drawn on the canvas.
 - Display of solved problems in a web interface.
 
-## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/MathGestureRecognition.git
-   cd MathGestureRecognition
